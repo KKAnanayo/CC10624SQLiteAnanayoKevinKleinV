@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 toastMessage("Student added successfully");
             }
         });
-
+//inang git
         btnView.setOnClickListener(v -> {
             startActivity(StudentList.class);
         });
